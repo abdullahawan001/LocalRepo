@@ -1,0 +1,1 @@
+#This means today i learn 60% og the git and github maybe 
